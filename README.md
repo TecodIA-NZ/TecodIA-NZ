@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/TecodIA-NZ.png" width="140" alt="TecodIA owl" />
+</p>
 
-<!--
-**TecodIA-NZ/TecodIA-NZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">TecodIA</h1>
+<p align="center"><b>Night-owl builders of games, tools & AI experiments.</b></p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦉 What we do
+- 🎮 **Games** – small, playful projects and prototypes
+- 🛠️ **Tools** – handy utilities that make everyday work easier
+- 🤖 **AI experiments** – trying out what's possible with modern AI, built with Claude
+
+### 🔗 Find us
+[Website](https://tecodia.com) · [LinkedIn](https://www.linkedin.com/company/tecodia-nz) · [X](https://x.com/TecodIA_nz) · [Instagram](https://www.instagram.com/tecodia_nz) · [hello@tecodia.com](mailto:hello@tecodia.com)
